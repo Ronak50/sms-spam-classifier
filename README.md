@@ -1,6 +1,6 @@
-# email-spam-classifier
-Email Spam has become a major problem
-nowadays, with Rapid growth of internet users, Email spams is
+# sms-spam-classifier
+SMS Spam has become a major problem
+nowadays, with Rapid growth of internet users, sms spams is
 also increasing. People are using them for illegal and unethical
 conducts, phishing and fraud. Sending malicious link through
 spam emails which can harm our system and can also seek in into
